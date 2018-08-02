@@ -11,7 +11,7 @@ Install [Node](http://nodejs.org/) & [NPM](https://npmjs.org/).
 
 ## Install
 
-    $ git clone https://github.com/orlyngerano/zfono.git
+    $ git clone https://github.com/orlyngerano/zfonosvc.git
     $ cd zfonosvc
     $ npm install
 
