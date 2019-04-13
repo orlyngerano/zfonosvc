@@ -4,13 +4,13 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.3",
-    "moment": "^2.22.1",
-    "sequelize": "^4.37.7",
-    "sqlite3": "^4.0.2"
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "sequelize": "^5.3.5",
+    "sqlite3": "^4.0.6"
   },
   "devDependencies": {
-    "nodemon": "^1.17.4"
+    "nodemon": "^1.18.11"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
